@@ -1,8 +1,5 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyurtsever&count_private=true&show_icons=true&hide=contribs,issues)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyurtsever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanyurtsever&count_private=true&show_icons=true&hide=contribs,issues" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyurtsever&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **ozanyurtsever/ozanyurtsever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Ozan Yurtsever StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10721563)](https://stackoverflow.com/users/6558042/omid-nikrah)
 -->

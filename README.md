@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyurtsever&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozanyurtsever&count_private=true&show_icons=true&hide=prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanyurtsever&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
